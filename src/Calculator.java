@@ -1,9 +1,9 @@
-package main;
+
 
 public class Calculator {
 
-	public double sum(double a, double b) {
-		return a + b;
+	public double sum(double c, double d) {
+		return c + d;
 	}
 
 	public double subtract(double a, double b) {
